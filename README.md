@@ -3,4 +3,4 @@
 resume
 ## License
 
-MIT © [onion](http://github.com/dcy0701)
+GPL © [onion](http://github.com/dcy0701)
