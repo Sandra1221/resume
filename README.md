@@ -34,7 +34,7 @@
 ## 个人项目
 - [leaf.js](https://github.com/dcy0701/leaf.js)：一个利用Es6 Proxies拦截的状态管理方案
 - [emoticon-spider](https://github.com/dcy0701/emoticon-spider)：微博无水印表情爬虫
-- [douyu-anal](https://github.com/MeCKodo/douyu-anal)：各大直播网站全部在线数据统计
+- [douyu-anal](https://github.com/dcy0701/douyu-anal)：各大直播网站全部在线数据统计
 - [ReactNativeServer](https://github.com/dcy0701/ReactNativeServer)：毕设ReactNative APP
 - [lazyman.js](https://github.com/dcy0701/project_manage_system)：一个流程管理的小demo
 
