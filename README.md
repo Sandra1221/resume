@@ -4,15 +4,15 @@
 
 ## 个人信息
 - 董崇洋/男/1994
-- 本科/北京邮电大学计算机学院
+- 本科/北京邮电大学/智能科学与技术
 - 工作经验(含实习)：1.5年
 - github: https://github.com/dcy0701
 - 个人网站：http://byr.pub/
 - 期望职位：前端开发工程师
-- 期望地点: 杭州、上海、其他
+- 期望地点: 杭州、上海、北京、其他
 
 ## 工作经历
-### 北京搜狗科技发展有限公司 （2016年7月 ~ 2017年2月）
+### 北京搜狗科技发展有限公司 （2016年7月 ~ 2017年3月）
 ####  桌面事业部  WEB开发工程师
 
 **项目介绍**：主要负责的图个乐是一款表情社交应用，主要产品线有IOS，安卓，搜狗输入法IOS-SDK，搜狗输入法安卓-SDK，微信小程序，陌陌APP-SDK。另外负责的舆情系统是公司级别的舆情监控，包含公司大部分产品的舆情监测，用户反馈等。
@@ -40,16 +40,16 @@
 
 ## 个人技能
 
-- 熟悉HTML5、CSS3、ECMAScript各版本
+- 熟悉ECMAScript
 - 熟悉node.js、express
+- 熟悉HTML5、CSS3
 - 熟悉angular、react及react native
-- 熟悉状态管理工具Redux、Mobx，以及leaf.js
+- 熟悉状态管理工具Redux、Mobx
 - 熟悉Gulp、Webpack自动化构建工具
 - 熟悉Hadoop-MR模型
 - 熟悉微信小程序
 - 熟练使用mysql、redis、KV等
 - 熟练使用linux、Mac OS
-- 熟悉nlp
 
 关键字：ECMAScript、NodeJs、Angular、React、Hadoop
 
@@ -58,3 +58,5 @@
 感谢您花时间阅读我的简历，期待能有机会和您共事。
 
 ## GPL
+
+
